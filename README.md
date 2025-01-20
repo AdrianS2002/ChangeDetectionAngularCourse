@@ -1,3 +1,4 @@
+see site https://change-detection-angular-course.vercel.app/
 # ChangeDetectionDeepDive
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
